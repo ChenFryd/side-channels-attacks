@@ -1,0 +1,3 @@
+difficulty: 1, time: 475.9015283584595difficulty: 0, time: 180.8090271949768, repeats 1, logged at: 2025-04-06 22:14:58
+difficulty: 0, time: 3.0m177.8054141998291s, repeats: 1, password: parshandata, logged at: 2025-04-06 22:20:09
+difficulty: 0, time: 3m0s, repeats: 1, password: parshandata, logged at: 2025-04-06 22:25:08
