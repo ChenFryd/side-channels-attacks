@@ -1,3 +1,11 @@
 difficulty: 1, time: 475.9015283584595difficulty: 0, time: 180.8090271949768, repeats 1, logged at: 2025-04-06 22:14:58
 difficulty: 0, time: 3.0m177.8054141998291s, repeats: 1, password: parshandata, logged at: 2025-04-06 22:20:09
 difficulty: 0, time: 3m0s, repeats: 1, password: parshandata, logged at: 2025-04-06 22:25:08
+name: 208009845, local: True, password length: 11, difficulty: 0, repeats: 1, password: parshandata, time: 3m13s, passwword tries: 98, logged at: 18-04-2025 15:53:32
+name: 208009845, local: True, password length: 16, difficulty: 1, repeats: 1, password: bdgcqqdpyqoljcrf, time: 7m56s, passwword tries: 196, logged at: 18-04-2025 16:08:24
+name: 208009845, local: True, password length: 16, difficulty: 1, repeats: 1, password: bdgcqqdpyqoljcrf, time: 7m49s, passwword tries: 194, logged at: 18-04-2025 16:35:25
+name: 208009845, local: True, password length: 16, difficulty: 2, repeats: 1, password: rtxqfejruzwsbtho, time: 5m3s, passwword tries: 263, logged at: 18-04-2025 17:06:21
+name: 208009845, local: True, password length: 16, difficulty: 3, repeats: 1, password: kwbsvpfcukkaeobe, time: 2m13s, passwword tries: 196, logged at: 18-04-2025 17:09:17
+name: 208009845, local: True, password length: 16, difficulty: 4, repeats: 3, password: mlsbibicskexnrdx, time: 7m39s, passwword tries: 642, logged at: 18-04-2025 17:35:07
+name: 208009845, local: True, password length: 16, difficulty: 4, repeats: 3, password: mlsbibicskexnrdx, time: 5m37s, passwword tries: 612, logged at: 18-04-2025 17:53:28
+name: 208009845, local: True, password length: 16, difficulty: 5, repeats: 3, password: kbnalixceufwltrv, time: 12m19s, passwword tries: 1077, logged at: 18-04-2025 19:25:08
